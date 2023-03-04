@@ -16,3 +16,5 @@ The "delete_script" function deletes a specified folder. If the "-q" flag is inc
 The "run_script" function runs a specified script. Currently, only the "file_manager" script is supported.
 
 If any of the commands fail to execute, an error message is displayed.
+
+#Copyright © Chan Guo Xin
